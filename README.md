@@ -54,11 +54,6 @@ I'm a passionate **Full-Stack Developer** from India 🇮🇳 specializing in **
   <table>
     <tr>
       <td align="center">
-        <a href="https://pranavmundada.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
         <a href="https://linkedin.com/in/pranav-mundada-1634452b2/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
@@ -68,8 +63,6 @@ I'm a passionate **Full-Stack Developer** from India 🇮🇳 specializing in **
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://leetcode.com/pjmundada2005/" target="_blank">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -81,7 +74,7 @@ I'm a passionate **Full-Stack Developer** from India 🇮🇳 specializing in **
         </a>
       </td>
       <td align="center">
-        <a href="https://www.codechef.com/users/pranav_mundada" target="_blank">
+        <a href="https://www.codechef.com/users/pranavmundada" target="_blank">
           <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
         </a>
       </td>
